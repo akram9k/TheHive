@@ -1,4 +1,4 @@
-![](images/thehive-logo.png)
+![](images/thehive-logo.png) test
 
 
 [![Join the chat at https://gitter.im/TheHive-Project/TheHive](https://badges.gitter.im/TheHive-Project/TheHive.svg)](https://gitter.im/TheHive-Project/TheHive?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
